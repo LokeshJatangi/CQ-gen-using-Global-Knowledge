@@ -2,14 +2,13 @@
 
 ## AUTHORS:
 ## Contributions of team members:-
-\\
-## Lokesh Jatangi:- 
+# Lokesh Jatangi:- 
 Model Architecture Implementation
-## Karthikeyen Mohanraj:-
+# Karthikeyen Mohanraj:-
 Data Preprocessing and Keyword Generation
-## Kaushiki Dwivedi:-
+# Kaushiki Dwivedi:-
 Creating local schema,KPCNet Implementation
-## Tejas Arya:-
+# Tejas Arya:-
 Missing schema Generation
-## Sarvani Mathigetta:- 
+# Sarvani Mathigetta:- 
 Create split 
